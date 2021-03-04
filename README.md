@@ -2,7 +2,7 @@
 
 My name is Rafael lopes and I am a technology student, recently graduated from the university.
 
--I live in :brazil:,Southeast in the state of São Paulo. :nerd_face::man_technologist:
+-I live in :brazil:,in the state of São Paulo. :nerd_face::man_technologist:
 
 
 
